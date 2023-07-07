@@ -3,7 +3,7 @@
 - Interactive app: [umams202](https://umams2002.shinyapps.io/cintel-02-app/)
 - Repository: [umams2002](https://github.com/umams2002/NW-App2)
 - Author: [Uma M SUbramanian](https://github.com/umams2002)
-
+-Added new inputs
 In this module, we add another important tool: Python. 
 If you are new to Python, don't worry, it's relatively easy to learn and very powerful.
 
