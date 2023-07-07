@@ -35,9 +35,9 @@ app_ui = ui.page_navbar(
         ),
     ),
     # TODO: Update the links to reflect your own about, GitHub repo, and app
-    ui.nav(ui.a("About", href="https://github.com/denisecase")),
-    ui.nav(ui.a("GitHub", href="https://github.com/denisecase/cintel-02-app")),
-    ui.nav(ui.a("App", href="https://denisecase.github.io/cintel-02-app/")),
+    ui.nav(ui.a("About", href="https://github.com/umams2002")),
+    ui.nav(ui.a("GitHub", href="https://github.com/umams2002/NW-App2")),
+    ui.nav(ui.a("App", href="https://umams2002.shinyapps.io/cintel-02-app/")),
     ui.nav(ui.a("Shiny", href="https://shiny.posit.co/py/")),
     ui.nav(ui.a("Examples", href="https://shinylive.io/py/examples/")),
     ui.nav(ui.a("Themes", href="https://rstudio.github.io/py-shinyswatch/")),
