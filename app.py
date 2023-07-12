@@ -45,7 +45,7 @@ app_ui = ui.page_navbar(
     ui.nav(ui.a("Themes", href="https://rstudio.github.io/py-shinyswatch/")),
     ui.nav(ui.a("Deploy", href="https://docs.posit.co/shinyapps.io/getting-started.html#working-with-shiny-for-python")),
     # TODO: Update the title to reflect yourname Dashboard
-    title=ui.h1("Case Dashboard"),
+    title=ui.h1("Uma's Dashboard"),
 )
 
 
